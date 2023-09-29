@@ -1,0 +1,16 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "AllImages";
+}
+
+<h1>AllImages</h1>
+
+<div class="row">
+    @foreach (var imageId in Model)
+    {
+        <div class="col-12">
+            <img src="/Home/Thumb/@imageId">
+        </div>
+    }
+</div>
+

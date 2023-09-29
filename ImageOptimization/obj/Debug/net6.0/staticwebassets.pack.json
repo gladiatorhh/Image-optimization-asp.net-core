@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ImageOptimization.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImageOptimization.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\08ee8a20-7f1c-40f4-9d0f-cc31dd99ff59.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\08ee8a20-7f1c-40f4-9d0f-cc31dd99ff59.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\153ed933-27b4-407a-ab4d-75f4559baf14.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\153ed933-27b4-407a-ab4d-75f4559baf14.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\639d6ea8-8b3c-41f9-9c99-c004f49ed573.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\639d6ea8-8b3c-41f9-9c99-c004f49ed573.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\65d37126-4013-4fd7-a2b6-cd7b7e730a86.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\65d37126-4013-4fd7-a2b6-cd7b7e730a86.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\7245199f-cf8f-456d-afa7-6fd3e8b1a10e.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\7245199f-cf8f-456d-afa7-6fd3e8b1a10e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\77b0e9e2-4282-466a-bc8e-8d070658dbcd.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\77b0e9e2-4282-466a-bc8e-8d070658dbcd.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\78ea5655-2230-4d08-b854-6ee93302e593.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\78ea5655-2230-4d08-b854-6ee93302e593.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\7d25a4f4-f88c-49b1-a61a-b8026cbd3da5.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\7d25a4f4-f88c-49b1-a61a-b8026cbd3da5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\92d557ed-b1dd-4d17-aa01-d53e7fe9256d.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\92d557ed-b1dd-4d17-aa01-d53e7fe9256d.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\9dad9b88-6ead-40a6-afc8-72cfab781c95.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\9dad9b88-6ead-40a6-afc8-72cfab781c95.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\d2cdde91-d558-4034-bdcc-d56f8b049086.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\d2cdde91-d558-4034-bdcc-d56f8b049086.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\Images\\ArticleImages\\0\\d5252dde-2f61-42c2-9499-b904534558f9.webp",
+      "PackagePath": "staticwebassets\\Images\\ArticleImages\\0\\d5252dde-2f61-42c2-9499-b904534558f9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arian\\source\\repos\\ImageOptimization\\ImageOptimization\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ImageOptimization.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ImageOptimization.props",
+      "PackagePath": "build\\ImageOptimization.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageOptimization.props",
+      "PackagePath": "buildMultiTargeting\\ImageOptimization.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ImageOptimization.props",
+      "PackagePath": "buildTransitive\\ImageOptimization.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
